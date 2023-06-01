@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Niklas Ferling. I'm currently studying front-end development and this is the GitHub account where I make all of my projects.
+My name is Niklas Ferling. I'm currently studying front-end development, and this is the GitHub account where I make all of my projects.
 
 - 🏫 Noroff University Online
 - 📍  Lillesand (Agder), Norway
