@@ -6,4 +6,4 @@ My name is Niklas Ferling. I'm currently studying front-end development, and thi
 - 📍  Lillesand (Agder), Norway
 - 📧 niklas.ferling@gmail.com
 
-So far I have had courses in HTML, CSS and JS for code languages. As well as design, project methodology, comtent management systems etc. Looking forward for my final year at Noroff and the start of my developing career!
+So far I have had courses in HTML, CSS (bootstrap and sass) and JS for code languages. As well as design, project methodology, content management systems etc. Currently on my second year and looking forward to finishing mid october and starting my career!
