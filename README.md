@@ -2,7 +2,7 @@
 
 My name is Niklas Ferling. I'm currently studying front-end development, and this is the GitHub account where I make all of my projects.
 
-- 🏫 Noroff University Online
+- 🏫 Noroff School of Technology
 - 📍  Lillesand (Agder), Norway
 - 📧 niklas.ferling@gmail.com
 
