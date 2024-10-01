@@ -14,8 +14,7 @@ const niklas = {
         css: ["Tailwind", "Bootstrap", "Material UI"],
         alsoDoesDesign: true,
     }
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!",
+    currentFocus: "Optimizing e-commerce websites for search engines",
     contact: {
         email: "niklas.ferling@gmail.com",
         phone: +47 926 92 775,
