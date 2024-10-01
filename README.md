@@ -3,7 +3,7 @@
 My name is Niklas Ferling. I'm currently finishing the front-end development studies at Noroff School of Technology, and this is the GitHub account where I make all of my projects.
 
 ```javascript
-const anmol = {
+const niklas = {
     details: {
         fullName: "Niklas Christian Storm Ferling",
         age: 22,
@@ -19,6 +19,6 @@ const anmol = {
     contact: {
         email: "niklas.ferling@gmail.com",
         phone: +47 926 92 775,
-        linkedin: https://www.linkedin.com/in/niklas-ferling-197189198/
+        linkedin: "https://www.linkedin.com/in/niklas-ferling-197189198/"
 };
 ```
