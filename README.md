@@ -1,9 +1,24 @@
 ### Hi there 👋
 
-My name is Niklas Ferling. I'm currently studying front-end development, and this is the GitHub account where I make all of my projects.
+My name is Niklas Ferling. I'm currently finishing the front-end development studies at Noroff School of Technology, and this is the GitHub account where I make all of my projects.
 
-- 🏫 Noroff School of Technology
-- 📍  Lillesand (Agder), Norway
-- 📧 niklas.ferling@gmail.com
-
-During my time studying at Noroff I have learned a lot about basic code languages like HTML, CSS and JS, with a few liberaries such as React, Bootstrap, Tailwind, MUI etc. As well as design, project methodology, content management systems etc. Currently finishing my second and final year and looking forward to starting my work career as soon as possible!
+```javascript
+const anmol = {
+    details: {
+        fullName: "Niklas Christian Storm Ferling",
+        age: 22,
+        location: "Lillesand (Agder), Norway",
+    },
+    frontEnd: {
+        js: "React",
+        css: ["Tailwind", "Bootstrap", "Material UI"],
+        alsoDoesDesign: true,
+    }
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!",
+    contact: {
+        email: "niklas.ferling@gmail.com",
+        phone: +47 926 92 775,
+        linkedin: https://www.linkedin.com/in/niklas-ferling-197189198/
+};
+```
