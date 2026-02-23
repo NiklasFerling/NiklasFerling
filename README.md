@@ -6,15 +6,15 @@ My name is Niklas Ferling. I'm currently finishing the front-end development stu
 const niklas = {
     details: {
         fullName: "Niklas Christian Storm Ferling",
-        age: 22,
+        age: 24,
         location: "Lillesand (Agder), Norway",
     },
     frontEnd: {
         js: "React",
-        css: ["Tailwind", "Bootstrap", "Material UI"],
+        css: ["Tailwind", "Shadcn", "Material UI"],
         alsoDoesDesign: true,
     }
-    currentFocus: "Optimizing e-commerce websites for search engines",
+    currentFocus: "Giving e-commerce stores valuable product insight to maximize potential and minimize loss.",
     contact: {
         email: "niklas.ferling@gmail.com",
         phone: +47 926 92 775,
